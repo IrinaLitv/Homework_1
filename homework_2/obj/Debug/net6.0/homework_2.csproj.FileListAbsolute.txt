@@ -1,0 +1,15 @@
+/Users/irinalitvinenko/Desktop/homework_2/bin/Debug/net6.0/homework_2
+/Users/irinalitvinenko/Desktop/homework_2/bin/Debug/net6.0/homework_2.deps.json
+/Users/irinalitvinenko/Desktop/homework_2/bin/Debug/net6.0/homework_2.runtimeconfig.json
+/Users/irinalitvinenko/Desktop/homework_2/bin/Debug/net6.0/homework_2.dll
+/Users/irinalitvinenko/Desktop/homework_2/bin/Debug/net6.0/homework_2.pdb
+/Users/irinalitvinenko/Desktop/homework_2/obj/Debug/net6.0/homework_2.csproj.AssemblyReference.cache
+/Users/irinalitvinenko/Desktop/homework_2/obj/Debug/net6.0/homework_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinalitvinenko/Desktop/homework_2/obj/Debug/net6.0/homework_2.AssemblyInfoInputs.cache
+/Users/irinalitvinenko/Desktop/homework_2/obj/Debug/net6.0/homework_2.AssemblyInfo.cs
+/Users/irinalitvinenko/Desktop/homework_2/obj/Debug/net6.0/homework_2.csproj.CoreCompileInputs.cache
+/Users/irinalitvinenko/Desktop/homework_2/obj/Debug/net6.0/homework_2.dll
+/Users/irinalitvinenko/Desktop/homework_2/obj/Debug/net6.0/refint/homework_2.dll
+/Users/irinalitvinenko/Desktop/homework_2/obj/Debug/net6.0/homework_2.pdb
+/Users/irinalitvinenko/Desktop/homework_2/obj/Debug/net6.0/homework_2.genruntimeconfig.cache
+/Users/irinalitvinenko/Desktop/homework_2/obj/Debug/net6.0/ref/homework_2.dll
