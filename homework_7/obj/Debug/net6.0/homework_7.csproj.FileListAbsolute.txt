@@ -1,0 +1,15 @@
+/Users/irinalitvinenko/Desktop/homework_7/bin/Debug/net6.0/homework_7
+/Users/irinalitvinenko/Desktop/homework_7/bin/Debug/net6.0/homework_7.deps.json
+/Users/irinalitvinenko/Desktop/homework_7/bin/Debug/net6.0/homework_7.runtimeconfig.json
+/Users/irinalitvinenko/Desktop/homework_7/bin/Debug/net6.0/homework_7.dll
+/Users/irinalitvinenko/Desktop/homework_7/bin/Debug/net6.0/homework_7.pdb
+/Users/irinalitvinenko/Desktop/homework_7/obj/Debug/net6.0/homework_7.csproj.AssemblyReference.cache
+/Users/irinalitvinenko/Desktop/homework_7/obj/Debug/net6.0/homework_7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinalitvinenko/Desktop/homework_7/obj/Debug/net6.0/homework_7.AssemblyInfoInputs.cache
+/Users/irinalitvinenko/Desktop/homework_7/obj/Debug/net6.0/homework_7.AssemblyInfo.cs
+/Users/irinalitvinenko/Desktop/homework_7/obj/Debug/net6.0/homework_7.csproj.CoreCompileInputs.cache
+/Users/irinalitvinenko/Desktop/homework_7/obj/Debug/net6.0/homework_7.dll
+/Users/irinalitvinenko/Desktop/homework_7/obj/Debug/net6.0/refint/homework_7.dll
+/Users/irinalitvinenko/Desktop/homework_7/obj/Debug/net6.0/homework_7.pdb
+/Users/irinalitvinenko/Desktop/homework_7/obj/Debug/net6.0/homework_7.genruntimeconfig.cache
+/Users/irinalitvinenko/Desktop/homework_7/obj/Debug/net6.0/ref/homework_7.dll
