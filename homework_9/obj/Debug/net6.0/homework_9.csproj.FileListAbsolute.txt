@@ -1,0 +1,15 @@
+/Users/irinalitvinenko/Desktop/homework_9/bin/Debug/net6.0/homework_9
+/Users/irinalitvinenko/Desktop/homework_9/bin/Debug/net6.0/homework_9.deps.json
+/Users/irinalitvinenko/Desktop/homework_9/bin/Debug/net6.0/homework_9.runtimeconfig.json
+/Users/irinalitvinenko/Desktop/homework_9/bin/Debug/net6.0/homework_9.dll
+/Users/irinalitvinenko/Desktop/homework_9/bin/Debug/net6.0/homework_9.pdb
+/Users/irinalitvinenko/Desktop/homework_9/obj/Debug/net6.0/homework_9.csproj.AssemblyReference.cache
+/Users/irinalitvinenko/Desktop/homework_9/obj/Debug/net6.0/homework_9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinalitvinenko/Desktop/homework_9/obj/Debug/net6.0/homework_9.AssemblyInfoInputs.cache
+/Users/irinalitvinenko/Desktop/homework_9/obj/Debug/net6.0/homework_9.AssemblyInfo.cs
+/Users/irinalitvinenko/Desktop/homework_9/obj/Debug/net6.0/homework_9.csproj.CoreCompileInputs.cache
+/Users/irinalitvinenko/Desktop/homework_9/obj/Debug/net6.0/homework_9.dll
+/Users/irinalitvinenko/Desktop/homework_9/obj/Debug/net6.0/refint/homework_9.dll
+/Users/irinalitvinenko/Desktop/homework_9/obj/Debug/net6.0/homework_9.pdb
+/Users/irinalitvinenko/Desktop/homework_9/obj/Debug/net6.0/homework_9.genruntimeconfig.cache
+/Users/irinalitvinenko/Desktop/homework_9/obj/Debug/net6.0/ref/homework_9.dll
